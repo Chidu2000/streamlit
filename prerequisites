@@ -1,0 +1,9 @@
+# The compatibility software reuirements :
+commands needed to be installled in prompt
+
+1. pip install streamlit
+2. pip install matplotlib
+3. pip install scikit-learn
+4. streamlit hello
+
+
